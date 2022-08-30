@@ -1,0 +1,30 @@
+.details{
+    background: black;
+}
+.btnDetails:hover{
+    background: peachpuff;
+}
+.btnPosts:hover{
+    background: peachpuff;
+}
+.divComment{
+    background: black;
+}
+.btnDiv{
+    display: flex;
+    flex-direction: column;
+}
+.allDiv{
+    flex-wrap: wrap;
+    background: black;
+    display: flex;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 200px;
+    width: 1250px ;
+}
+.divClass{
+    border: 2px solid black;
+    width: 200px;
+    height: 80px;
+}

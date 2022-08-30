@@ -7,8 +7,13 @@
 .btn:hover{
     background: greenyellow;
 }
-.indexDiv{
+.mainDiv{
     margin: 35px;
     display: flex;
     flex-wrap: wrap;
 }
+
+
+
+
+
