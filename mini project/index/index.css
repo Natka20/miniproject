@@ -1,0 +1,14 @@
+.users {
+    background: lightpink;
+    border: 1px solid white;
+    width: 300px;
+    height: 125px;
+}
+.btn:hover{
+    background: greenyellow;
+}
+.indexDiv{
+    margin: 35px;
+    display: flex;
+    flex-wrap: wrap;
+}
